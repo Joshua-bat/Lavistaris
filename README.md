@@ -13,7 +13,7 @@ Ein dunkel-lila / mystisches Theme für Home Assistant mit Light- und Dark-Mode,
   </tr>
   <tr>
     <td><img src="doc/images/Light_Screenshot.png" width="400"></td>
-    <td><img src="[doc/images/Dark_Screenshot.png](https://github.com/Joshua-bat/Lavistaris/blob/898b048099038226dc5e4185158b984261627462/doc/images/Dark_Screenshot.png)" width="400"></td>
+    <td><img src="https://github.com/Joshua-bat/Lavistaris/blob/898b048099038226dc5e4185158b984261627462/doc/images/Dark_Screenshot.png" width="400"></td>
   </tr>
 </table>
 
