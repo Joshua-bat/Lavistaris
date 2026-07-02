@@ -1,0 +1,34 @@
+Lavistaris:
+  card-mod-theme: Lavistaris
+  card-mod-card: |
+    ha-card {
+      background: rgba(227, 105, 196, 0.10);
+      border: none;
+    }
+  modes:
+    light:
+      primary-color: "#8E6BB8"
+      background-color: "#EBD6F5"
+      card-background-color: "#FFFFFF"
+      accent-color: "#BA68C8"
+      text-color: "#4A148C"
+      app-header-background-color: "#D1C4E9"
+      app-header-text-color: "#4A148C"
+      sidebar-background-color: "#F3E5F5"
+      sidebar-text-color: "#4A148C"
+      sidebar-selected-background-color: "#BA68C8"
+      sidebar-selected-icon-color: "#FFFFFF"
+      lovelace-background: "center / cover no-repeat url('/local/Lavistaris_light.png')"
+    dark:
+      primary-color: "#4B2A6A"
+      background-color: "#2E1A3F"
+      card-background-color: "#1B1028"
+      accent-color: "#9575CD"
+      text-color: "#EDE7F6"
+      app-header-background-color: "#2A1740"
+      app-header-text-color: "#EDE7F6"
+      sidebar-background-color: "#1C0F2B"
+      sidebar-text-color: "#EDE7F6"
+      sidebar-selected-background-color: "#9575CD"
+      sidebar-selected-icon-color: "#FFFFFF"
+      lovelace-background: "center / cover no-repeat url('/local/Lavistaris_dark.png')"
