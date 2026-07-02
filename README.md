@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="140" alt="Lavistaris logo">
+  <img src="https://github.com/Joshua-bat/Lavistaris/blob/7dce237dead8174269c20ce18ecb9f3fe510e405/doc/images/icon.png" width="140" alt="Lavistaris logo">
 </p>
 
 # Lavistaris
@@ -32,15 +32,6 @@ Ein dunkel-lila / mystisches Theme für Home Assistant mit Light- und Dark-Mode,
   (werden dann über `/local/...` referenziert)
 
 ## Installation
-
-### Über HACS (empfohlen)
-
-1. HACS → drei Punkte oben rechts → **Benutzerdefinierte Repositories**
-2. Repository-URL eintragen: `https://github.com/DEIN-USERNAME/lavistaris-theme`
-3. Kategorie: **Theme**
-4. **Hinzufügen** klicken, danach das Theme in der HACS-Übersicht installieren
-5. Home Assistant neu starten oder unter **Entwicklerwerkzeuge → YAML → Themes neu laden**
-6. Unter **Einstellungen → Personalisierung → Theme** `Lavistaris` auswählen
 
 ### Manuell
 
