@@ -9,7 +9,7 @@ Ein dunkel-lila / mystisches Theme für Home Assistant mit Light- und Dark-Mode,
 
 | Light | Dark |
 |---|---|
-| ![Lavistaris Light](images/preview-light.png) | ![Lavistaris Dark]([images/preview-dark.png](https://github.com/Joshua-bat/Lavistaris/blob/898b048099038226dc5e4185158b984261627462/doc/images/Dark_Screenshot.png)) |
+| ![Lavistaris Light](images/preview-light.png) | ![Lavistaris Dark]([images/preview-dark.png](https://github.com/Joshua-bat/Lavistaris/blob/898b048099038226dc5e4185158b984261627462/doc/images/Dark_Screenshot.png) |
 
 
 ## Voraussetzungen
