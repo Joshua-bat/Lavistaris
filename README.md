@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" width="140" alt="Lavistaris logo">
+</p>
+
 # Lavistaris
 
 Ein dunkel-lila / mystisches Theme für Home Assistant mit Light- und Dark-Mode, eigenem Hintergrundbild und [card_mod](https://github.com/thomasloven/lovelace-card-mod) Unterstützung für transparente Karten.
@@ -6,17 +10,10 @@ Ein dunkel-lila / mystisches Theme für Home Assistant mit Light- und Dark-Mode,
 
 ## Vorschau
 
-<table>
-  <tr>
-    <th>Light</th>
-    <th>Dark</th>
-  </tr>
-  <tr>
-    <td><img src="doc/images/Light_Screenshot.png" width="400"></td>
-    <td><img src="https://github.com/Joshua-bat/Lavistaris/blob/898b048099038226dc5e4185158b984261627462/doc/images/Dark_Screenshot.png" width="400"></td>
-  </tr>
-</table>
-
+| Light | Dark |
+|---|---|
+| ![Lavistaris Light](images/preview-light.png) | ![Lavistaris Dark](images/preview-dark.png) |
+| `#8E6BB8` / `#EBD6F5` | `#4B2A6A` / `#2E1A3F` |
 
 ## Voraussetzungen
 
@@ -29,6 +26,15 @@ Ein dunkel-lila / mystisches Theme für Home Assistant mit Light- und Dark-Mode,
   (werden dann über `/local/...` referenziert)
 
 ## Installation
+
+### Über HACS (empfohlen)
+
+1. HACS → drei Punkte oben rechts → **Benutzerdefinierte Repositories**
+2. Repository-URL eintragen: `https://github.com/DEIN-USERNAME/lavistaris-theme`
+3. Kategorie: **Theme**
+4. **Hinzufügen** klicken, danach das Theme in der HACS-Übersicht installieren
+5. Home Assistant neu starten oder unter **Entwicklerwerkzeuge → YAML → Themes neu laden**
+6. Unter **Einstellungen → Personalisierung → Theme** `Lavistaris` auswählen
 
 ### Manuell
 
@@ -46,3 +52,5 @@ Ein dunkel-lila / mystisches Theme für Home Assistant mit Light- und Dark-Mode,
 Das Theme setzt u. a. `primary-color`, `accent-color`, `sidebar-*`, `app-header-*` sowie ein eigenes `lovelace-background` pro Modus. Über `card-mod-card` wird zusätzlich der Hintergrund jeder `ha-card` leicht transparent eingefärbt.
 
 ## Lizenz
+
+MIT – siehe [LICENSE](LICENSE)
