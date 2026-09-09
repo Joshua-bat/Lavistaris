@@ -44,8 +44,4 @@ Ein dunkel-lila / mystisches Theme für Home Assistant mit Light- und Dark-Mode,
 3. Home Assistant neu starten
 4. Theme unter **Einstellungen → Personalisierung** auswählen
 
-## Enthaltene Variablen
-
-Das Theme setzt u. a. `primary-color`, `accent-color`, `sidebar-*`, `app-header-*` sowie ein eigenes `lovelace-background` pro Modus. Über `card-mod-card` wird zusätzlich der Hintergrund jeder `ha-card` leicht transparent eingefärbt.
-
 ## Lizenz
